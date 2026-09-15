@@ -15,7 +15,7 @@ these files. Nothing here comes from a real client.
 | `sop-template.md` | The SOP template from the chapter, identical to the copy inside the skill |
 | `01-project-instructions/` | The text to paste into the shared project, with placeholders for your two links |
 | `02-prompts/` | The four prompts, the answer sheet for your own process, and three samples |
-| `04-example-output/` | The finished SOP-003 after team review, and a sample index spreadsheet as CSV |
+| `03-example-output/` | The finished SOP-003 after team review, and a sample index spreadsheet as CSV |
 
 The skill ships as a zip only. To read or edit it, unzip it, change the files inside
 the `sop-manager` folder, and rebuild the zip from that folder so the structure
@@ -42,7 +42,7 @@ Re-upload it afterward. Anyone you shared it with gets the new version automatic
 1. Create a Drive folder named `SOPs` and share it with your team.
 2. Create a spreadsheet named `SOP index` with these eight columns: ID, Title,
    Category, Owner, Last updated, Last reviewed, Status, Link. Import
-   `04-example-output/sop-index.csv` for the header row, then delete the sample rows.
+   `03-example-output/sop-index.csv` for the header row, then delete the sample rows.
 3. Create a shared project, paste in `01-project-instructions/project-instructions.md`,
    and replace the two placeholder links with your folder and spreadsheet links.
 4. Upload `sop-manager-skill.zip` through Customize | Skills | Add | Upload skill, then

@@ -10,7 +10,7 @@ purpose: the order of the welcome email and the client record, and whether the s
 check with the client manager is mandatory. Those should come back tagged
 [OWNER DECISION] rather than resolved.
 
-The result of applying this feedback is in `04-example-output/`.
+The result of applying this feedback is in `03-example-output/`.
 
 ---
 
