@@ -4,7 +4,7 @@ Dispatch connects the Claude mobile app to the Cowork session on your desktop. C
 
 Requirements: both devices on the latest Claude app, the desktop app open, and the one-time pairing done.
 
-From your phone, once the roadmap is already approved at your desk:
+From your phone, once the roadmap is already approved at your desk, point Dispatch to the folder and run the prompt:
 
 ```
 In project silverpine-roadmap, build the presentation from the current
