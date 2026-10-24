@@ -1,0 +1,61 @@
+Timestamp,What type of business do you run?,How long have you used Silverpine?,How satisfied are you with Silverpine? (1-5),Which feature do you use most?,What is your biggest frustration with Silverpine?,What is one thing you would add or change?,Anything else you want to tell us?,May we contact you about your answers?,Email (optional)
+06/29/2026 08:30:00,Personal trainer,1-6 months,3,Client records,Google sync disconnected twice this month.,,,,
+06/29/2026 15:14:18,Pilates studio,1-6 months,3,Invoicing,,Capacity limits for group sessions.,,,
+06/29/2026 16:12:34,Tutor,2+ years,2,Calendar view,The mobile page freezes on the confirmation step.,,,Yes,petra.tutor@example.com
+06/29/2026 19:09:41,Barbershop,1-2 years,3,Online booking page,,Prepayment for long appointments.,,,
+06/29/2026 19:24:52,Photographer,6-12 months,2,Calendar view,,Deposit at booking is still my top request.,,Yes,oliver.photographer@example.com
+06/29/2026 20:23:12,Massage therapist,2+ years,3,Client records,Reminders stopped when I reached the SMS limit.,,,,
+06/29/2026 22:18:54,Personal trainer,1-6 months,5,Calendar view,No complaints.,,,,
+06/30/2026 05:26:16,Music teacher,1-6 months,5,Calendar view,All good.,,,Yes,silvia.music@example.com
+06/30/2026 14:08:00,Barbershop,1-6 months,5,Online booking page,Nothing major.,,,,
+06/30/2026 21:19:19,Physiotherapy clinic,1-6 months,5,Online booking page,,,,,
+07/01/2026 07:31:44,Beauty salon,2+ years,5,Invoicing,No complaints.,,,,
+07/01/2026 12:46:30,Hair salon,6-12 months,4,Reports,,,,,
+07/02/2026 12:21:59,Tutor,First month,3,Client records,,"Booking deposit, even a small one.",,Yes,robert.tutor@example.com
+07/02/2026 12:27:12,Photographer,First month,4,Client records,,Keep it simple.,,,
+07/03/2026 07:13:20,Yoga studio,1-6 months,2,SMS reminders,,Group classes with a waitlist for my pilates studio.,,,
+07/03/2026 15:29:59,Photographer,First month,2,Client records,Front desk staff should not see payouts.,,,,
+07/04/2026 20:19:03,Hair salon,2+ years,3,Reports,,More SMS reminders on my plan.,,,
+07/04/2026 21:04:34,Massage therapist,2+ years,4,Online booking page,,Custom questions on the booking form.,,,
+07/05/2026 04:11:14,Barbershop,6-12 months,3,Client records,,Staff permission levels.,,,
+07/05/2026 11:23:45,Massage therapist,1-2 years,5,Client records,Nothing major.,Keep it simple.,,,
+07/05/2026 14:45:06,Beauty salon,2+ years,2,Online booking page,Calendar sync is still flaky.,,,,
+07/07/2026 21:13:22,Barbershop,First month,5,Client records,No complaints.,,,Yes,corina.barbershop@example.com
+07/08/2026 11:30:49,Physiotherapy clinic,1-6 months,4,Reports,-,Nothing.,,,
+07/09/2026 05:35:18,Dog groomer,6-12 months,4,Reports,-,,,,
+07/10/2026 03:57:18,Tutor,6-12 months,5,Calendar view,All good.,Nothing.,,,
+07/10/2026 08:43:56,Tutor,2+ years,4,SMS reminders,Nothing major.,Nothing.,,,
+07/10/2026 14:33:55,Tutor,6-12 months,2,Online booking page,I print waivers for every new client. Let them sign online.,,,Yes,max.tutor@example.com
+07/10/2026 16:16:01,Physiotherapy clinic,1-2 years,4,SMS reminders,Nothing major.,,,Yes,livia.physiotherapy@example.com
+07/10/2026 22:22:41,Tutor,2+ years,3,Client records,Sync with Google Calendar duplicated a client again.,,,,
+07/11/2026 09:04:24,Tutor,First month,3,SMS reminders,,Take a deposit at booking for new clients.,,,
+07/11/2026 15:32:00,Physiotherapy clinic,2+ years,5,Online booking page,-,,,,
+07/11/2026 15:55:41,Personal trainer,First month,3,SMS reminders,Events I delete in Google Calendar stay booked here.,,,,
+07/12/2026 07:14:05,Hair salon,First month,5,Reports,,,,Yes,stefan.hair@example.com
+07/12/2026 23:42:05,Tutor,1-6 months,1,Client records,"Lost a paid session to a no-show, need a deposit option.",,,,
+07/13/2026 15:06:06,Hair salon,First month,5,Calendar view,No complaints.,,,,
+07/14/2026 06:36:50,Photographer,2+ years,5,Invoicing,,Keep it simple.,,,
+07/14/2026 09:26:33,Massage therapist,First month,5,Client records,-,,,,
+07/15/2026 20:48:40,Massage therapist,1-6 months,2,Reports,,Please fix Google Calendar sync before anything else.,,,
+07/15/2026 22:59:33,Hair salon,2+ years,4,SMS reminders,,My logo on the booking page please.,,,
+07/16/2026 06:32:07,Tutor,First month,4,Calendar view,All good.,Keep it simple.,,,
+07/16/2026 17:38:28,Tutor,6-12 months,3,Invoicing,Clients struggle to book on phones.,,,,
+07/17/2026 00:10:13,Hair salon,First month,5,Client records,No complaints.,Keep it simple.,,,
+07/17/2026 06:01:19,Massage therapist,First month,5,Calendar view,No complaints.,,,,
+07/17/2026 14:20:15,Barbershop,1-6 months,4,Invoicing,,An app for checking my day.,,,
+07/18/2026 00:29:54,Beauty salon,2+ years,4,Reports,No complaints.,,,,
+07/19/2026 03:28:02,Beauty salon,First month,5,Calendar view,Nothing major.,Nothing.,,,
+07/19/2026 08:30:43,Dog groomer,2+ years,5,Reports,All good.,,,,
+07/19/2026 10:29:47,Dog groomer,1-2 years,5,Invoicing,,,,Yes,noemi.dog@example.com
+07/20/2026 02:03:45,Tutor,2+ years,3,Invoicing,,Digital consent form attached to the first booking.,,,
+07/20/2026 03:23:15,Physiotherapy clinic,2+ years,2,Online booking page,Google Calendar sync dropped my afternoon bookings on Monday.,,,Yes,paula.physiotherapy@example.com
+07/21/2026 22:03:03,Dog groomer,First month,2,Invoicing,Hit the SMS cap again before the month ended.,,,,
+07/23/2026 16:48:58,Massage therapist,2+ years,5,Online booking page,,,,,
+07/24/2026 16:46:30,Beauty salon,First month,3,Invoicing,,Ask new clients health questions when they book.,,,
+07/26/2026 09:57:14,Beauty salon,1-2 years,3,SMS reminders,,Clients should sign a waiver before the first session.,,,
+07/26/2026 12:54:21,Hair salon,6-12 months,1,Client records,No-shows again this Saturday. Deposits please.,,,,
+07/27/2026 22:33:20,Photographer,2+ years,4,Online booking page,All good.,,,Yes,horia.photographer@example.com
+07/28/2026 05:53:30,Hair salon,1-6 months,4,Online booking page,No complaints.,,,Yes,greta.hair@example.com
+07/28/2026 09:14:57,Photographer,6-12 months,5,Calendar view,Nothing major.,Keep it simple.,,,
+07/28/2026 13:19:09,Music teacher,First month,2,Client records,Google Calendar sync lag caused a double booking.,,,,
+07/28/2026 16:15:00,Barbershop,2+ years,5,SMS reminders,Nothing major.,,,,
