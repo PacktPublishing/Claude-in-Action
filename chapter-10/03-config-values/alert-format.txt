@@ -1,0 +1,6 @@
+NEW A-FIT COMPANY (score [score])
+[Company] ([domain])
+[Industry], [employee range] employees, [City] [Country]
+Tech: [technologies Hunter returned, or "none found"]
+Why: [the criteria that earned points]
+Next: [one suggested next step for the rep]
