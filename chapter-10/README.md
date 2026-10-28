@@ -8,7 +8,7 @@ This folder holds everything you need to follow Project 9 with the same data the
 - `02-prompts/prompts.md`: every prompt from the chapter, in the order you type them.
 - `03-config-values/`: the two values that go into the Config table, `icp.txt` and `alert-format.txt`.
 - `04-answer-key/`: the tiers the sample companies should land in, and a reference routine instruction to compare against the one Claude writes for you.
-- `05-optional-skill/lead-qualification/`: the pipeline packaged as a skill, for once your scoring has settled.
+- `05-optional-skill/lead-qualification.zip`: the pipeline packaged as a skill, ready to upload, for once your scoring has settled.
 
 ## How to use it
 
