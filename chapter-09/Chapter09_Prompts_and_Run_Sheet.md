@@ -24,7 +24,7 @@ chapter-09/
 
 ### A1. Create the design system
 
-Click **New**, then **+ | Design system | New design system**. Choose Claude chat, set the company name to **Lakemont Physio**. Attach `brand/logo.svg`, `copy/brief.md`, `copy/testimonials.md`, and the photos from `media/` (if any). Then send:
+Click **New**, then **+ | Design system | New design system**. Choose Claude chat, set the company name to **Lakemont Physio**. Attach `brand/logo.png`, `copy/brief.md`, `copy/testimonials.md`, and the photos from `media/` (if any). Then send:
 
 ```
 Build a design system for Lakemont Physio from the attached files. Extract the colors, fonts, components, and layout patterns.
