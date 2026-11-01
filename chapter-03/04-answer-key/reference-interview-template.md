@@ -56,7 +56,7 @@ What changes per candidate is the probe under each question. Those are generated
 
 ### T1. Priority 1
 
-**Question.** You have 8,000 euros a month across Google and Meta and a target on cost per lead. How do you decide the split in the first month, and what would make you change it in the second?
+**Question.** You have $8,000 a month across Google and Meta and a target on cost per lead. How do you decide the split in the first month, and what would make you change it in the second?
 
 - **4** Gives a starting split with a reason, names what they would measure, and names the threshold that would move budget.
 - **3** Gives a split and a measurement plan, without a threshold for acting.

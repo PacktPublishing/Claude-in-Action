@@ -28,7 +28,7 @@ Everything else in this description is context. Questions come from these three.
 
 **In a typical month you will:**
 
-- Own the paid search and paid social budget, roughly 8,000 euros a month across Google and Meta. You decide the split and you answer for the result.
+- Own the paid search and paid social budget, roughly $8,000 a month across Google and Meta. You decide the split and you answer for the result.
 - Report on cost per lead weekly, in GA4, and shift spend toward what is working.
 - Build and improve the automated email flows that move new signups toward a paid plan. There are three flows today and nobody currently owns them.
 - Write the ad copy and the email copy yourself. Design comes from a freelancer, and you brief them.
